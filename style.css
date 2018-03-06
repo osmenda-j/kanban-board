@@ -1,0 +1,47 @@
+* {
+	font-family: 'Lato', sans-serif;
+	background-color: #354147;
+	color: #fff;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
+
+.board {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.create-column, .add-card, .btn-delete {
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	background-color: #41418f;
+	margin-bottom: 10px;
+}
+
+.column-card-list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.card-description {
+	padding: 10px;
+}
+.column {
+	width: 600px;
+	border-radius: 5px;
+	margin: 15px auto;
+	padding: 2px;
+	background-color: #9c9dee;
+}
+
+.column-title {
+	width:200px;
+	margin: 20px auto;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #41418f;
+}
